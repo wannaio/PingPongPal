@@ -1,4 +1,5 @@
-// Include necessary libraries
+// Authors: wannaio, tom-bou
+
 #include <Wire.h>
 #include <Servo.h>
 #include <Adafruit_Sensor.h>
@@ -6,14 +7,14 @@
 #include <SPI.h>
 #include <nRF24L01.h>
 #include <RF24.h>
-// Define constants and pins
+
 const int MOTOR1_PIN = 5;
 const int MOTOR2_PIN = 6;
 const int PHOTO_PIN = A0;
 const int DELAY_TIME = 1000;
 const int LIGHT_THRESHOLD = 60;
 const int SERVO_PIN = 10;
-// Instantiate Servo object and sensor
+
 Servo myservo;
 Adafruit_ADXL345_Unified adxl = Adafruit_ADXL345_Unified();
 RF24 radio(7, 8);  // CE, CSN
@@ -71,8 +72,3 @@ void loop() {
     delay(200);
   }
 }
-
-
-
-
-

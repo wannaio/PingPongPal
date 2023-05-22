@@ -1,3 +1,5 @@
+// Author: David Tanudin
+
 #include <Servo.h>
 #include <SPI.h>
 #include <nRF24L01.h>
