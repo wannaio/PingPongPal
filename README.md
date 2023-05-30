@@ -11,7 +11,7 @@ This project aimed to design and implement a proof-of-concept for an autonomous 
 The outcomes were presented in a presentation and a detailed report and was rewarded with an A. Demo is shown above. 
 
 ## Project contributors
-- [Simon Wanna](github.com/wannaio)
-- [Tom Boustedt](github.com/tom-bou)
+- [Simon Wanna](https://www.github.com/wannaio)
+- [Tom Boustedt](https://www.github.com/tom-bou)
 - David Tanudin 
 - Gustav Blomdahl
