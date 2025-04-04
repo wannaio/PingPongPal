@@ -3,7 +3,7 @@
 <b>Course code</b>: DM1588 <br>
 <b>Grade received</b>: A <br> 
 
-![Ping Pong Pal](assets/ppp-demo.gif) 
+https://github.com/user-attachments/assets/894b19e9-fe9a-468b-8cef-29b5bd8a2d6c
 
 ## About the project
 This project aimed to design and implement a proof-of-concept for an autonomous ping pong ball launcher mounted on a self-navigating platform. Intended for adaptable table settings, it offers potential as a mobile recreational feature for diverse events. The developmental process entailed intricate Arduino circuit constructions, Arduino programming as well as design and 3D printing techniques. Ultrasound sensors ensured edge detection, facilitating the cars's ability to turn upon reaching the table's end. The system's ball launcher movements were regulated by an accelerometer, while DC motors were harnessed for ball propulsion. Infrared sensors were integrated to discern the presence of players; the launcher was programmed to remain inactive until a player was detected. <br>
